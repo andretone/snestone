@@ -1,7 +1,7 @@
 /*Andrea Tone's code     andrea.aka,tone@gmail.com for infos and more*/
 /*codice arduino per implementazione SNES controller bluetooth HID*/
 /* alcune scelte progettuali sono state ispirate dai seguenti progetti/tutorial liberamente 
-accessibili dal web ai seguenti linnk:
+accessibili dal web ai seguenti link:
 http://www.instructables.com/id/Bluetooth-SNES-Controller-for-Android/
 http://www.kobakant.at/DIY/?p=3310
 */
